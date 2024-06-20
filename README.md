@@ -44,7 +44,7 @@ AtliQ, a rapidly expanding hardware company, offers a range of products to custo
 **Acquired Understanding in:**
 
 1. Industry sector: Revenue, Cost of goods sold (COGS), Gross Margin, Gross Margin Percentage, production expenses, shipping expenses, and more.
-2. Data Cleansing: Eliminating duplicates, employing "Text to Columns," utilizing TRIM() and REPLACE() functions.
+2. Data Cleaning: Eliminating duplicates, employing "Text to Columns," utilizing TRIM() and REPLACE() functions.
 3. Data Transformation with Power Query: Cleaning data, Merging data, introducing new columns in Power Query, and transferring Power Query data to Excel.
 4. Generating Business Reports using Pivot Table and Power Pivot.
 5. The ability to integrate additional data into an established data framework with expertise.
