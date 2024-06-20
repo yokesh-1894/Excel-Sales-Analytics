@@ -4,14 +4,31 @@
 
 AtliQ, a rapidly expanding hardware company, offers a range of products to customers across multiple countries using different avenues such as retail, direct sales, and distributor networks, both online and in physical stores. In order to facilitate its expansion and base decisions on data, AtliQ requires a data analytics team.
 
+## Sales Report
+
 **Project objective:** 
 
    **1.** Develop a report on Customer Performance. https://github.com/yokesh-1894/Excel-Sales-Analytics/blob/main/customer%20performance.pdf 
   
    **2.** Make an extensive comparison between Market Performance and Sales Targets.  https://github.com/yokesh-1894/Excel-Sales-Analytics/blob/main/performancs%20vs%20target.pdf
 
-   **Objective of sales analytics:** Help Businesses to keep track of and assess their Sales Operations and Results. Discover sales 
+   **Importance of Sales Analytics:**
+                                   Help Businesses to keep track of and assess their Sales Operations and Results. Discover sales 
      patterns and observe key performance indicators (KPIs).
+
+## Finance Report 
+
+**Project objective:** 
+
+  **1.** Develop Profit and Loss (P&L) report by Fiscal Year.https://github.com/yokesh-1894/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20fiscal%20year.pdf
+  
+  **2.** Develop Profit and Loss (P&L) report by Months. https://github.com/yokesh-1894/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20months.pdf
+
+  **3.** Develop Profit and Loss (P&L) report by Market. https://github.com/yokesh-1894/Excel-Sales-Analytics/blob/main/P%20%26%20L%20for%20markets.pdf
+
+  
+**Importance of Financial Report:**
+                                  Financial reporting provides insight and transparency into a company's financial position and its operations. It's meant to give stakeholders in the company the right information, in the right amount of detail, to make better-informed decisions.
 
 **Step by Step Process:**
 1. ETL (Extract, Transform, Load) in excel.
