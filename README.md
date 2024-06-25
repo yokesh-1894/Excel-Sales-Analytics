@@ -1,4 +1,4 @@
-# Excel-Sales-Analytics
+# Excel-Sales & Financial-Analytics
 
 **Problem Statement:**
 
